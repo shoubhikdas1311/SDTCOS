@@ -1,0 +1,10 @@
+.\objects\dac.o: Drivers\DAC.c
+.\objects\dac.o: Drivers\DAC.h
+.\objects\dac.o: Drivers\MK60N512.h
+.\objects\dac.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\dac.o: Drivers\../common/common.h
+.\objects\dac.o: Drivers\../common/arm_cm4.h
+.\objects\dac.o: Drivers\../common/common.h
+.\objects\dac.o: Drivers\../common/../Drivers/MK60N512.h
+.\objects\dac.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\assert.h
+.\objects\dac.o: Drivers\../common/io.h

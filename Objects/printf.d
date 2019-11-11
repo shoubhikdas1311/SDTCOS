@@ -1,0 +1,9 @@
+.\objects\printf.o: common\printf.c
+.\objects\printf.o: common\common.h
+.\objects\printf.o: common\arm_cm4.h
+.\objects\printf.o: common\common.h
+.\objects\printf.o: common\../Drivers/MK60N512.h
+.\objects\printf.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\printf.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\assert.h
+.\objects\printf.o: common\io.h
+.\objects\printf.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
